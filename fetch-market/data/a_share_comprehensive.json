@@ -1,0 +1,328 @@
+[
+  {
+    "symbol": "600519.SHH",
+    "current_price": 1420.05,
+    "change": -16.99,
+    "change_percent": "-1.1823",
+    "volume": "6552750",
+    "previous_close": 1437.04,
+    "open": 1425.0,
+    "high": 1433.68,
+    "low": 1420.0,
+    "latest_trading_day": "2025-08-13",
+    "recent_news_count": 10,
+    "avg_sentiment_score": 0.164,
+    "positive_news_count": 0,
+    "negative_news_count": 0,
+    "recent_news": [
+      {
+        "title": "World's top hedge fund Bridgewater dumps all China stocks",
+        "summary": "The world's largest hedge fund, Bridgewater Associates, sold all of its holdings in US-listed Chines...",
+        "sentiment": "Neutral",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "Abu Dhabi Set to Host First World Deaf Congress in the Middle East, Reveals Winning Logo by Jordanian Deaf Artist",
+        "summary": "The 'XX World's Congress of the World Federation of the Deaf 2027' will bring together 2,000+ Deaf p...",
+        "sentiment": "Somewhat-Bullish",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "Lisa Su Pushes Back Against Mark Zuckerberg's $100 Million AI Hiring Frenzy: 'Money is important... Not Necessarily The Most Important Thing' - Alphabet  ( NASDAQ:GOOG ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",
+        "summary": "Advanced Micro Devices, Inc. AMD CEO Lisa Su has rejected Silicon Valley's escalating million-dollar...",
+        "sentiment": "Somewhat-Bullish",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "Starbucks Under 4 Minutes: CEO Brian Niccol's New 'Green Apron' Plan Aims To End Long Waits - Starbucks  ( NASDAQ:SBUX ) ",
+        "summary": "Starbucks Corp. SBUX is accelerating its operational turnaround with CEO Brian Niccol's new \"Green A...",
+        "sentiment": "Neutral",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "Macroscope | 4 reasons Trump has pushed his luck on tariffs too far",
+        "summary": "A seductive narrative has taken hold in financial markets since US President Donald Trump launched h...",
+        "sentiment": "Neutral",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "Lubricants Market worth $204.10 billion by 2030, at a CAGR of 2.8%, says MarketsandMarkets™",
+        "summary": "Delray Beach, FL, Aug. 14, 2025 ( GLOBE NEWSWIRE ) -- The Lubricants Market was valued at USD 178.14...",
+        "sentiment": "Somewhat-Bullish",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "NetEase Announces Second Quarter 2025 Unaudited Financial Results - NetEase  ( NASDAQ:NTES ) , Youdao  ( NYSE:DAO ) ",
+        "summary": "HANGZHOU, China, Aug. 14, 2025 /PRNewswire/ -- NetEase, Inc. NTES \", NetEase\", or the \", Company\", )...",
+        "sentiment": "Somewhat-Bullish",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "Can Ripple  ( XRP )  Reach $4 by December?",
+        "summary": "XRP has been on a hot streak, but reaching $4 this year will be a challenge....",
+        "sentiment": "Somewhat-Bullish",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "NetEase Enhances Board Independence with New Director Appointment - NetEase  ( NASDAQ:NTES ) , Youdao  ( NYSE:DAO ) ",
+        "summary": "HANGZHOU, China, Aug. 14, 2025 /PRNewswire/ -- NetEase, Inc. NTES \", NetEase\", or the \", Company\", )...",
+        "sentiment": "Somewhat-Bullish",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "Toobit Celebrates Punchimals  ( $PUNCHI )  Launch with Sold-Out Presale and a $10,000 Trading Carnival",
+        "summary": "GEORGE TOWN, Cayman Islands, Aug. 14, 2025 ( GLOBE NEWSWIRE ) -- Toobit, the award-winning global cr...",
+        "sentiment": "Somewhat-Bullish",
+        "date": "2025-08-14"
+      }
+    ],
+    "week_change": -7.69,
+    "week_change_percent": -0.54,
+    "week_data": [
+      {
+        "date": "2025-08-13",
+        "close": 1420.05,
+        "volume": 6552750,
+        "change": -4.9500000000000455
+      },
+      {
+        "date": "2025-08-12",
+        "close": 1437.04,
+        "volume": 4201920,
+        "change": -11.960000000000036
+      },
+      {
+        "date": "2025-08-11",
+        "close": 1445.0,
+        "volume": 4715910,
+        "change": 21.5
+      },
+      {
+        "date": "2025-08-08",
+        "close": 1420.97,
+        "volume": 1865530,
+        "change": -2.0799999999999272
+      },
+      {
+        "date": "2025-08-07",
+        "close": 1422.35,
+        "volume": 2800130,
+        "change": -1.5300000000002
+      },
+      {
+        "date": "2025-08-06",
+        "close": 1423.88,
+        "volume": 2369930,
+        "change": -5.119999999999891
+      },
+      {
+        "date": "2025-08-05",
+        "close": 1427.74,
+        "volume": 2534230,
+        "change": 6.740000000000009
+      }
+    ]
+  },
+  {
+    "symbol": "000001.SHZ",
+    "current_price": 12.26,
+    "change": -0.07,
+    "change_percent": "-0.5677",
+    "volume": "111981310",
+    "previous_close": 12.33,
+    "open": 12.37,
+    "high": 12.4,
+    "low": 12.23,
+    "latest_trading_day": "2025-08-13",
+    "recent_news_count": 10,
+    "avg_sentiment_score": 0.164,
+    "positive_news_count": 0,
+    "negative_news_count": 0,
+    "recent_news": [
+      {
+        "title": "World's top hedge fund Bridgewater dumps all China stocks",
+        "summary": "The world's largest hedge fund, Bridgewater Associates, sold all of its holdings in US-listed Chines...",
+        "sentiment": "Neutral",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "Abu Dhabi Set to Host First World Deaf Congress in the Middle East, Reveals Winning Logo by Jordanian Deaf Artist",
+        "summary": "The 'XX World's Congress of the World Federation of the Deaf 2027' will bring together 2,000+ Deaf p...",
+        "sentiment": "Somewhat-Bullish",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "Lisa Su Pushes Back Against Mark Zuckerberg's $100 Million AI Hiring Frenzy: 'Money is important... Not Necessarily The Most Important Thing' - Alphabet  ( NASDAQ:GOOG ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",
+        "summary": "Advanced Micro Devices, Inc. AMD CEO Lisa Su has rejected Silicon Valley's escalating million-dollar...",
+        "sentiment": "Somewhat-Bullish",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "Starbucks Under 4 Minutes: CEO Brian Niccol's New 'Green Apron' Plan Aims To End Long Waits - Starbucks  ( NASDAQ:SBUX ) ",
+        "summary": "Starbucks Corp. SBUX is accelerating its operational turnaround with CEO Brian Niccol's new \"Green A...",
+        "sentiment": "Neutral",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "Macroscope | 4 reasons Trump has pushed his luck on tariffs too far",
+        "summary": "A seductive narrative has taken hold in financial markets since US President Donald Trump launched h...",
+        "sentiment": "Neutral",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "Lubricants Market worth $204.10 billion by 2030, at a CAGR of 2.8%, says MarketsandMarkets™",
+        "summary": "Delray Beach, FL, Aug. 14, 2025 ( GLOBE NEWSWIRE ) -- The Lubricants Market was valued at USD 178.14...",
+        "sentiment": "Somewhat-Bullish",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "NetEase Announces Second Quarter 2025 Unaudited Financial Results - NetEase  ( NASDAQ:NTES ) , Youdao  ( NYSE:DAO ) ",
+        "summary": "HANGZHOU, China, Aug. 14, 2025 /PRNewswire/ -- NetEase, Inc. NTES \", NetEase\", or the \", Company\", )...",
+        "sentiment": "Somewhat-Bullish",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "Can Ripple  ( XRP )  Reach $4 by December?",
+        "summary": "XRP has been on a hot streak, but reaching $4 this year will be a challenge....",
+        "sentiment": "Somewhat-Bullish",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "NetEase Enhances Board Independence with New Director Appointment - NetEase  ( NASDAQ:NTES ) , Youdao  ( NYSE:DAO ) ",
+        "summary": "HANGZHOU, China, Aug. 14, 2025 /PRNewswire/ -- NetEase, Inc. NTES \", NetEase\", or the \", Company\", )...",
+        "sentiment": "Somewhat-Bullish",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "Toobit Celebrates Punchimals  ( $PUNCHI )  Launch with Sold-Out Presale and a $10,000 Trading Carnival",
+        "summary": "GEORGE TOWN, Cayman Islands, Aug. 14, 2025 ( GLOBE NEWSWIRE ) -- Toobit, the award-winning global cr...",
+        "sentiment": "Somewhat-Bullish",
+        "date": "2025-08-14"
+      }
+    ],
+    "week_change": -0.21,
+    "week_change_percent": -1.68,
+    "week_data": [
+      {
+        "date": "2025-08-13",
+        "close": 12.26,
+        "volume": 111981310,
+        "change": -0.10999999999999943
+      },
+      {
+        "date": "2025-08-12",
+        "close": 12.33,
+        "volume": 68005620,
+        "change": 0.02999999999999936
+      },
+      {
+        "date": "2025-08-11",
+        "close": 12.3,
+        "volume": 93435320,
+        "change": -0.09999999999999964
+      },
+      {
+        "date": "2025-08-08",
+        "close": 12.4,
+        "volume": 82979590,
+        "change": -0.08000000000000007
+      },
+      {
+        "date": "2025-08-07",
+        "close": 12.47,
+        "volume": 72205310,
+        "change": 0.030000000000001137
+      },
+      {
+        "date": "2025-08-06",
+        "close": 12.46,
+        "volume": 69044770,
+        "change": -0.009999999999999787
+      },
+      {
+        "date": "2025-08-05",
+        "close": 12.47,
+        "volume": 113207820,
+        "change": 0.16999999999999993
+      }
+    ]
+  },
+  {
+    "symbol": "300750.SHZ",
+    "current_price": 273.6,
+    "change": 10.35,
+    "change_percent": "3.9316",
+    "volume": "39466770",
+    "previous_close": 263.25,
+    "open": 264.77,
+    "high": 275.0,
+    "low": 264.51,
+    "latest_trading_day": "2025-08-13",
+    "recent_news_count": 10,
+    "avg_sentiment_score": 0.243,
+    "positive_news_count": 0,
+    "negative_news_count": 0,
+    "recent_news": [
+      {
+        "title": "GEN Korean BBQ Expands Internationally with Three New South Korean Locations",
+        "summary": "CERRITOS, Calif., Aug. 14, 2025 ( GLOBE NEWSWIRE ) -- GEN Restaurant Group, Inc. ( \"GEN\" or the \"Com...",
+        "sentiment": "Somewhat-Bullish",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "GEN Korean BBQ Expands Internationally with Three New South Korean Locations - GEN Restaurant Group  ( NASDAQ:GENK ) ",
+        "summary": "CERRITOS, Calif., Aug. 14, 2025 ( GLOBE NEWSWIRE ) -- GEN Restaurant Group, Inc. ( \"GEN\" or the \"Com...",
+        "sentiment": "Somewhat-Bullish",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "US spot Ether ETFs see 2nd-biggest inflows on record as ETH nears new high",
+        "summary": "Spot Ether ETFs printed the second-largest daily inflows on record at $729 million on Wednesday, fol...",
+        "sentiment": "Neutral",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "Bitcoin briefly flips Google market cap as investors eye rally above $124K",
+        "summary": "Bitcoin briefly flipped Google parent Alphabet's $2.4 trillion market capitalization to become the f...",
+        "sentiment": "Somewhat-Bullish",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "CK Hutchison first-half profit drops 92% on costs of UK Vodafone-Three merger",
+        "summary": "CK Hutchison Holdings, the Hong Kong-listed conglomerate controlled by billionaire Li Ka-shing, post...",
+        "sentiment": "Neutral",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "Half-year report 2025",
+        "summary": "Stockholm, 14 August 2025 - Virtune delivers its most successful half-year financial results ever wi...",
+        "sentiment": "Bullish",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "1 \"Boring\" Stock Offering an Over 7.4% Annual Dividend Yield",
+        "summary": "Energy Transfer operates in the most reliable segment of the energy sector, but how boring is this h...",
+        "sentiment": "Neutral",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "Titanbay Appoints ex-UBS Exec as Head of Switzerland",
+        "summary": "LONDON and ZURICH, Aug. 14, 2025 ( GLOBE NEWSWIRE ) -- Titanbay, Europe's leading private markets in...",
+        "sentiment": "Bullish",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "Weibo Announces Second Quarter 2025 Unaudited Financial Results - Weibo  ( NASDAQ:WB ) ",
+        "summary": "BEIJING, Aug. 14, 2025 /PRNewswire/ -- Weibo Corporation ( \"Weibo\" or the \"Company\" ) WB, a leading ...",
+        "sentiment": "Somewhat-Bullish",
+        "date": "2025-08-14"
+      },
+      {
+        "title": "Is XRP a Buy While It's Below $5?",
+        "summary": "XRP is trading for roughly $3, but does that make the budding cryptocurrency cheap?...",
+        "sentiment": "Somewhat-Bullish",
+        "date": "2025-08-14"
+      }
+    ]
+  }
+]
